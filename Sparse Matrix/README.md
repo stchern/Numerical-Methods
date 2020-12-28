@@ -7,7 +7,7 @@
 ### p - vector of the l-th row of matrix ###
 ### f - vector of the right side of system equations ###
 
-## Matrix:##
+## Matrix: ##
 
 ### b0  c0  0  0  0 ... 0 0 ###
 ### a1  b1  c1 0  0 ... 0 0 ###
