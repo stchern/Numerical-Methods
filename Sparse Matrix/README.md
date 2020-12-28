@@ -9,6 +9,7 @@ f - vector of the right side of system equations
 
 Matrix:
 
+![](//matrix.png/150x100)
 b0  c0  0  0  0 ... 0 0
 a1  b1  c1 0  0 ... 0 0
 0   a2  b2 c2 0 ... 0 0
