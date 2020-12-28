@@ -1,1 +1,1 @@
-# Gaussian Elimination to Solve Linear Equations #
+## Gaussian Elimination to Solve Linear Equations ##
